@@ -1,0 +1,8 @@
+build
+bin
+dist
+pyEuler1D_app.egg-info
+*.so
+*.png
+*.dat
+*.sh
